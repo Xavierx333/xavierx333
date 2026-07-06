@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Luis Miguel Xavier de Araujo
+# 👨🏻‍💻 Xavier333
 
 **`Técnico em TI | Desenvolvedor Java`**
 
-Me chamo Luis Miguel Xavier de Araujo, tenho 19 anos e sou natural do Amazonas. Concluí o ensino médio na E.E. Castelo Branco, com o curso técnico em informática. Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de software e desenvolvimento web. Sou apaixonado por tecnologia e focado em transformar ideias estruturadas em códigos funcionais, buscando minha primeira oportunidade no mercado como Desenvolvedor Júnior ou Estagiário na área de tecnologia.
+Me chamo Luis Miguel, tenho 19 anos e sou natural do Amazonas. Concluí o ensino médio na E.E. Castelo Branco, com o curso técnico em informática. Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de software e desenvolvimento web. Sou apaixonado por tecnologia e focado em transformar ideias estruturadas em códigos funcionais, buscando minha primeira oportunidade no mercado como Desenvolvedor Júnior ou Estagiário na área de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/luisMiguel223">
