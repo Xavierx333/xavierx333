@@ -71,18 +71,6 @@ Me chamo Luis Miguel, tenho 19 anos e sou natural do Amazonas. Concluí o ensino
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/Xavierx223">
-    <img src="https://img.shields.io/github/followers/Xavierx223?label=Seguidores&style=for-the-badge&color=007BFF&logo=github" alt="Seguidores">
-  </a>
-  <a href="https://github.com/Xavierx223">
-    <img src="https://img.shields.io/github/stars/Xavierx223?label=Estrelas%20Totais&style=for-the-badge&color=28A745&logo=github" alt="Estrelas">
-  </a>
-  <a href="https://github.com/Xavierx223">
-    <img src="https://img.shields.io/github/repo-count/Xavierx223?label=Reposit%C3%B3rios&style=for-the-badge&color=6F42C1&logo=github" alt="Repositórios">
-  </a>
-</p>
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Xavierx333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-top-langs.vercel.app/api?username=Xavierx333&layout=compact&theme=tokyonight&hide=php,javascript" alt="Linguagens mais usadas" height="180" />
 </p>
