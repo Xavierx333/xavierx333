@@ -71,6 +71,6 @@ Me chamo Luis Miguel, tenho 19 anos e sou natural do Amazonas. Concluí o ensino
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xavierx223&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-top-langs.vercel.app/api?username=Xavierx223&layout=compact&theme=tokyonight&hide=php,javascript" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Xavierx223&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xavierx223&layout=compact&theme=tokyonight&hide=php,javascript" alt="Linguagens mais usadas" height="180" />
 </p>
